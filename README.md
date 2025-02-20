@@ -1,6 +1,6 @@
 # Proyecto de Microservicios
 
-![Microservices](https://www.flaticon.es/icono-gratis/microservicio_6266704
+![Microservices](https://www.flaticon.es/icono-gratis/microservicio_6266704)
 
 ## Descripción
 Este proyecto demuestra la implementación de microservicios utilizando varias tecnologías avanzadas como Kafka, Eureka Netflix, Spring Boot, Keycloak, Lombok, PostgreSQL y Actuator.
