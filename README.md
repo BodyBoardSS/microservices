@@ -1,6 +1,5 @@
 # Proyecto de Microservicios
-
-![Microservices](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAADICAMAAACahl6sAAAAYFBMVEUAAAD///////8fHx8AAAAfHx9mZmYODg6MjIytra2jo6P5+fn7+/tWVlZaWlqhoaFxgYGioqJ7e3vJycnW1tZtbW2amprW1tbAwMBcXFxcXFzm)
+<img src="https://github.com/BodyBoardSS/microservices/blob/main/microservicio.png" width="200" height="200" />
 
 ## Descripción
 Este proyecto demuestra la implementación de microservicios utilizando varias tecnologías avanzadas como Kafka, Eureka Netflix, Spring Boot, Keycloak, Lombok, PostgreSQL y Actuator.
